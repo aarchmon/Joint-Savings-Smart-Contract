@@ -27,7 +27,7 @@ This section entails execution results of a joint savings account hosted via a _
 
 ### Accounts Setup
 
-[Account Setup](./Execution_Results/setAccounts.png)
+![Account Setup](./Execution_Results/setAccounts.png)
 
 ### Ether Deposit
 
@@ -41,7 +41,7 @@ For this example, we will deposit 16 ether into the smart contract.
 
 #### Deposit 10 Ether
 
-![Deposit 10 Ether)(./Execution_Results/deposit_10_ether.png)
+![Deposit 10 Ether](./Execution_Results/deposit_10_ether.png)
 
 ![Verification](./Execution_Results/deposit_10_ether_verification.png)
 
