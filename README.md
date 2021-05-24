@@ -35,21 +35,21 @@ For this example, we will deposit 16 ether into the smart contract.
 
 #### Deposit 1 Ether
 
-[Deposit 1 Ether](./Execution_Results/deposit_1_ether.png)
+![Deposit 1 Ether](./Execution_Results/deposit_1_ether.png)
 
-[Verification](./Execution_Results/deposit_1_ether_verification.png)
+![Verification](./Execution_Results/deposit_1_ether_verification.png)
 
 #### Deposit 10 Ether
 
-[Deposit 10 Ether)(./Execution_Results/deposit_10_ether.png)
+![Deposit 10 Ether)(./Execution_Results/deposit_10_ether.png)
 
-[Verification](./Execution_Results/deposit_10_ether_verification.png)
+![Verification](./Execution_Results/deposit_10_ether_verification.png)
 
 #### Deposit 5 Ether
 
-[Deposit 5 Ether](./Execution_Results/deposit_5_ether.png)
+![Deposit 5 Ether](./Execution_Results/deposit_5_ether.png)
 
-[Verification](./Execution_Results/deposit_5_ether.png)
+![Verification](./Execution_Results/deposit_5_ether.png)
 
 ### Withdrawals
 
@@ -57,15 +57,15 @@ To demonstrate the withdrawal functionality of this smart contract, we will be w
 
 #### Withdraw 5 Ether
 
-[Withdraw 5 Ether](./Execution_Results/withdraw_5_ether.png)
+![Withdraw 5 Ether](./Execution_Results/withdraw_5_ether.png)
 
-[Verification](./Execution_Results/withdraw_5_ether_verification.png)
+![Verification](./Execution_Results/withdraw_5_ether_verification.png)
 
 #### Withdraw 10 Ether
 
-[Withdraw 10 Ether](./Execution_Results/withdraw_10_ether.png)
+![Withdraw 10 Ether](./Execution_Results/withdraw_10_ether.png)
 
-[Verification](./Execution_Results/withdraw_10_ether_verification.png)
+![Verification](./Execution_Results/withdraw_10_ether_verification.png)
 
 ## Usage
 
